@@ -21,6 +21,7 @@
 		<Item Name="ForLoop.vi" Type="VI" URL="../Loops/ForLoop.vi"/>
 		<Item Name="IfElse.vi" Type="VI" URL="../04_iF_Else/IfElse.vi"/>
 		<Item Name="LogicGates.vi" Type="VI" URL="../03_LogicOperation/LogicGates.vi"/>
+		<Item Name="SimpleCalc.vi" Type="VI" URL="../Calculator/SimpleCalc.vi"/>
 		<Item Name="STR_Len.vi" Type="VI" URL="../05_STR_Length/STR_Len.vi"/>
 		<Item Name="UnBundleAndCluster.vi" Type="VI" URL="../Cluster/UnBundleAndCluster.vi"/>
 		<Item Name="VisibleInvisible.vi" Type="VI" URL="../PropertyNode/VisibleInvisible.vi"/>
